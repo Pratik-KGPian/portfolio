@@ -1,0 +1,105 @@
+.webpage{
+    height: 800px;
+    background-image: url(./b.jpg);
+    background-size: 1423px;
+}
+
+.heading{
+    position: absolute;
+    left: 300px;
+    font-size: xx-large;
+    font-family: Georgia;
+}
+
+.image{
+    position: absolute;
+    left: 150px;
+    top: 100px;
+    border: solid 1px;
+    width: 250px;
+    height: 280px;
+}
+
+.personal-info{
+    position: absolute;
+    left: 450px;
+    top: 150px;
+    border: solid 1px rgb(243, 241, 241);
+    height: 210px;
+    width: 250px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: rgb(243, 241, 241);
+    box-shadow: 4px 4px 9px 1px rgb(202, 202, 202);
+    color: rgb(97, 97, 97);
+}
+
+.hobby{
+    position: absolute;
+    top: 400px;
+    left: 30px;
+    border: solid 1px rgb(243, 241, 241);
+    width: 210px;
+    height: 200px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: rgb(243, 241, 241);
+    box-shadow: 4px 4px 9px 1px rgb(202, 202, 202);
+    color: rgb(97, 97, 97);
+}
+
+.soc{
+    position: absolute;
+    top: 400px;
+    left: 270px;
+    border: solid 1px rgb(243, 241, 241);
+    width: 230px;
+    height: 200px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: rgb(243, 241, 241);
+    box-shadow: 4px 4px 9px 1px rgb(202, 202, 202);
+    color: rgb(97, 97, 97);
+}
+
+.edu{
+    position: absolute;
+    top: 400px;
+    left: 540px;
+    border: solid 1px rgb(243, 241, 241);
+    width: 250px;
+    height: 200px;
+    border-radius: 5px;
+    text-align: center;
+    background-color: rgb(243, 241, 241);
+    box-shadow: 4px 4px 9px 1px rgb(202, 202, 202);
+    color: rgb(97, 97, 97);
+}
+
+#fb{
+    font-size: xx-large;
+    position: absolute;
+    top: 650px;
+    left: 250px;
+}
+
+#insta{
+    font-size: xx-large;
+    position: absolute;
+    top: 650px;
+    left: 330px;
+}
+
+#in{
+    font-size: xx-large;
+    position: absolute;
+    top: 650px;
+    left: 410px;
+}
+
+#twit{
+    font-size: xx-large;
+    position: absolute;
+    top: 650px;
+    left: 490px;
+}
